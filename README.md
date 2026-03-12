@@ -199,8 +199,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## Author
 
 **Your Name**
-- GitHub: [@johannes_felzmann](https://github.com/johannes_felzmann)
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/johannes-felzmann-879070186/)
+- GitHub: [@johannes_felzmann](https://github.com/johannesfelzmann)
+- LinkedIn: [linkedin.com/in/johannes-felzmann](https://www.linkedin.com/in/johannes-felzmann-879070186/)
 
 ---
 
