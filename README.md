@@ -159,7 +159,7 @@ Key findings from `notebooks/01_EDA.ipynb`:
 - Most common positive words: *great, excellent, wonderful, best, amazing*
 - Most common negative words: *bad, worst, waste, boring, awful*
 
-![Word Cloud](assets/wordcloud_positive.png)
+![Word Cloud](assets/wordcloud.png)
 
 ---
 
